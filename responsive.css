@@ -1,0 +1,27 @@
+@media(max-width: 320px) {
+    main {
+        margin-top: 0px;
+        padding: 0px;
+    }
+    .conteiner-foto img{
+        max-width: 100%;
+        border-radius: 0px;
+    }
+    h1, h2, h3, p, ul, ol, li {
+        padding: 20px;
+    }
+}
+
+@media(max-width: 475px) {
+    main {
+        margin-top: 0px;
+        padding: 0px;
+    }
+    .conteiner-foto img{
+        max-width: 100%;
+        border-radius: 0px;
+    }
+    h1, h2, h3, p, ul, ol, li {
+        padding: 20px;
+    }
+}
